@@ -1,0 +1,11 @@
+{
+  "name": "npage-builder",
+  "version": "0.0.1",
+  "description": "This node module is used to build websites with nPage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AntonKL",
+  "license": "Private"
+}
